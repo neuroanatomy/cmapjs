@@ -1,0 +1,6 @@
+{
+  "host": "wss://brainspell.org/cmapjs",
+  "cpath": "../coincidences2017/coincidences.zip",
+  "tpath": "../coincidences2017/top100.zip",
+  "spath": "../coincidences2017/sum.img"
+}
